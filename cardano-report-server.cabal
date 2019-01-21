@@ -38,7 +38,6 @@ library
                      , http-types >= 0.9.1
                      , lens >= 4.14
                      , lifted-base >= 0.2.3.8
-                     , log-warper >= 0.3.1
                      , monad-control >= 1.0.1.0
                      , mtl >= 2.2.1
                      , network >= 2.6.3.1
@@ -82,7 +81,6 @@ executable cardano-report-server
                      , directory >= 1.2.6.2
                      , filepath >= 1.4.1.0
                      , http-types >= 0.9.1
-                     , log-warper >= 0.3.1
                      , monad-control >= 1.0.1.0
                      , mtl >= 2.2.1
                      , optparse-applicative >= 0.12.1.0

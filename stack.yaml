@@ -5,4 +5,3 @@ nix:
 
 extra-deps:
 - universum-1.0.4
-- log-warper-1.8.6
