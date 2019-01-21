@@ -1,3 +1,6 @@
+This repository was forked because it has `log-warper` dependency which makes
+it harder to manage dependencies in Ariadne.
+
 Cardano SL Report Server
 ========================
 
